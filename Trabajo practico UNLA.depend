@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1571365183 source:c:\users\guido\desktop\tp uni\trabajo practico unla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"universidad.h"
+
+1571365221 c:\users\guido\desktop\tp uni\trabajo practico unla\universidad.h
+
+1571365406 source:c:\users\guido\desktop\tp uni\trabajo practico unla\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"universidad.h"
+
+1571365184 source:c:\users\guido\desktop\usuarios\guido\unla\1er a—o\programacion de computadoras\trabajo practico de programacion unla\universidad nacional de lanus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"universidad.h"
+
+1571365222 c:\users\guido\desktop\usuarios\guido\unla\1er a—o\programacion de computadoras\trabajo practico de programacion unla\universidad nacional de lanus\universidad.h
+
+1571365408 source:c:\users\guido\desktop\usuarios\guido\unla\1er a—o\programacion de computadoras\trabajo practico de programacion unla\universidad nacional de lanus\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"universidad.h"
+
